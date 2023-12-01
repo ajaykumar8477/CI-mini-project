@@ -1,10 +1,11 @@
 <html>
     <head>
-        <title> User Address</title>
+        <title> Product list</title>
         <?= link_tag("css/bootstrap.css")?>
        
         <body>
             <table>
+
                 <tr>
                     <td>Id</td>
                     <td>Product Name</td>

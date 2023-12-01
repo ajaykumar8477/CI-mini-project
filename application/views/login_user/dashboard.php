@@ -24,7 +24,7 @@
       <table class="table">
         <thead>
         <tr>
-          <th>Article Title</th>
+          <th>Title</th>
           <th>Article Body</th>
           <th>Update</th>
           <th>Delete</th>
